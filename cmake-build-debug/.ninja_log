@@ -1,0 +1,12 @@
+# ninja log v5
+6	752	1706846607766973900	CMakeFiles/khatri_shiva_prog1csc402.dir/Account.cpp.o	fc20e69e086a13bd
+723	821	1706849029713558115	khatri_shiva_prog1csc402	f6b2195933189d77
+8	1102	1706847706731972360	CMakeFiles/khatri_shiva_prog1csc402.dir/Bank.cpp.o	7745960fb33108f2
+6	1041	1706847706667800074	CMakeFiles/khatri_shiva_prog1csc402.dir/main.cpp.o	d892f78ca78775b1
+0	83	1706849324969003016	build.ninja	450869749f3b458f
+6	723	1706849029613791652	CMakeFiles/khatri_shiva_prog1csc402.dir/ATM.cpp.o	a4df79916ed57fbc
+7	786	1706849333729625718	CMakeFiles/khatri_shiva_prog1csc402.dir/Account.cpp.o	a3e0425ae7675ce5
+8	802	1706849333744797642	CMakeFiles/khatri_shiva_prog1csc402.dir/ATM.cpp.o	58cb4473d67f0cc1
+7	910	1706849333851418022	CMakeFiles/khatri_shiva_prog1csc402.dir/main.cpp.o	f7721964209ac79a
+7	962	1706849333906633929	CMakeFiles/khatri_shiva_prog1csc402.dir/Bank.cpp.o	5446a833e813f98
+962	1058	1706849334006178348	khatri_shiva_prog1csc402	f6b2195933189d77

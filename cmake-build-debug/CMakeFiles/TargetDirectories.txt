@@ -1,0 +1,3 @@
+/Users/shiva/Documents/College/Advanced_Programming/khatri_shiva_prog1csc402_main/cmake-build-debug/CMakeFiles/khatri_shiva_prog1csc402.dir
+/Users/shiva/Documents/College/Advanced_Programming/khatri_shiva_prog1csc402_main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shiva/Documents/College/Advanced_Programming/khatri_shiva_prog1csc402_main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
